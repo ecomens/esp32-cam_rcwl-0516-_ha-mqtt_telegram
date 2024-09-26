@@ -5,7 +5,7 @@ You can view detailed information about the project.
 
 !Things to consider:
    - Tested board "AI Thinker ESP32-CAM"
-   - motion sensor: rcwl-0516+ data pin -> connected to GPIO12
+   - (**)motion sensor: (To be modified) rcwl-0516+ data pin -> connected to GPIO12
    - In Arduino IDE extra libraries installed:
     . EloquantArduino : https://github.com/eloquentarduino/EloquentArduino
     . PubSubClient
